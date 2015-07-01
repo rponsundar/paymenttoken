@@ -1,0 +1,5 @@
+{
+"client_id" : "3343201432010424002011",
+"redirect_uri" : "http://localhost:8080/vendor/adidas/paymentauth.html",
+"authorization" : "http://localhost:8081/oauth/authorize"
+}
